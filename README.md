@@ -1,4 +1,4 @@
-# ResearchPort
+# Pg_Dissertation_Management
 
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2022">
@@ -24,7 +24,7 @@
   <tr>
     <td>
 <!-- <strong>AgriChain</strong>:- <br> -->
-ResearchPort is a Next-based platform for post-graduate students for finding research papers and pairing up with mentors and advisors that can
+Pg_Dissertation_Management is a Next-based platform for post-graduate students for finding research papers and pairing up with mentors and advisors that can
 aid them in developing a thesis.
    
  
